@@ -34,7 +34,7 @@ Spring Data JPA<br>
 Maven
 ## Como Executar
 Clone o projeto:<br>
-git clone https://github.com/seu-usuario/seu-repositorio.git<br>
+git clone https://github.com/Thiagoho/-Cadastro-de-Produto-API-REST-com-Spring-Boot.git<br>
 Abra no Eclipse, IntelliJ ou outro IDE compatível com Spring Boot.<br>
 Execute a classe Application.java.<br>
 Teste os endpoints usando:<br>
